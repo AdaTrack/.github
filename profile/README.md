@@ -39,18 +39,9 @@ docker-compose up -d
 
 Available as **Docker images**, **standalone binaries** (Linux, macOS, Windows), and **SaaS** at [adatrack.io](https://adatrack.io).
 
-### Open Source Projects
-
-| Repository | Description |
-|---|---|
-| [**adatrack**](https://github.com/xpointsolution/adatrack) | Production-grade IoT platform for telemetry & geospatial analytics |
-| [**gps-compare**](https://github.com/xpointsolution/gps-compare) | Algorithm for fair GPS route comparison using geometric distance |
-| [**osm_downloader**](https://github.com/xpointsolution/osm_downloader) | Automated GPX trace downloader from OpenStreetMap |
-
 ### Get in Touch
 
 - **Website:** [adatrack.io](https://adatrack.io)
 - **Documentation:** [adatrack-io.gitbook.io](https://adatrack-io.gitbook.io)
 - **Discord:** [Join our community](https://discord.gg/adatrack)
-- **Email:** xpointsolution@gmail.com
-- **Location:** Kosice, Slovakia
+- **Email:** adatrack@adatrack.io
